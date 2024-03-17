@@ -17,6 +17,6 @@
       <p>
          Note that this is a rough draft of the website; I am still learning how to code in HTML.
       </p>
-      <img src=""LinkedIn Photo.jpg"" alt="Michael's Photo">
+      <img src="LinkedIn Photo.jpg">
    </body>
 </html>
