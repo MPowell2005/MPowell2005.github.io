@@ -20,5 +20,10 @@
          </p>
          <img src="assets/images/LinkedIn Photo.jpg" alt="Richard Michael Powell III">
       </div>
+      <div>
+         <p> 
+            This is the projects section.
+         </p>
+      </div>
    </body>
 </html>
