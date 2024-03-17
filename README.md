@@ -17,6 +17,6 @@
       <p>
          Note that this is a rough draft of the website; I am still learning how to code in HTML.
       </p>
-      <img src="LinkedIn Photo.jpg">
+      <img src="assets/images/LinkedInPhoto.jpg" alt="Richard Michael Powell III">
    </body>
 </html>
